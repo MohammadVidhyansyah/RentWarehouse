@@ -1,0 +1,18 @@
+Nama aplikasi : WareHouseID
+
+Owner : Kelompok 2
+Developer : Kelompok 3
+
+Anggota Owner :
+1901508934 - Hafidz Adilla Adrianto
+1901504343 - Andi Fadhillah M
+2101670910 - Nurjihan Saniyyah P
+2101699110 - Bryan Alfason Sunjaya
+2101709231 - Dava Arvansyah
+
+Anggota Developer :
+1901469473 - Mohammad Hafidz Vidhyansyah (MohammadVidhyansyah)
+2101635321 - Jonathan Chrisnaldy (joechrisnaldy)
+2101654440 - Aurellia Vania Y. B. (avania3008)
+2101714793 - Bayu Fadhlurrohman Hasmi (bayufdhsmi)
+
